@@ -5,9 +5,9 @@ I’m a **Computer Science Graduate Student** at Northeastern Illinois Universit
 ---
 
 ## 📚 Education  
+- 🎓 High School Diploma — Benito Juarez Community Academy  
 - 🎓 **B.S. Computer Science** — Northeastern Illinois University (Graduated Spring 2025)  
 - 🎓 **M.S. Computer Science (in progress)** — Northeastern Illinois University (expected 2027)  
-- 🎓 High School Diploma — Benito Juarez Community Academy  
 
 ---
 
