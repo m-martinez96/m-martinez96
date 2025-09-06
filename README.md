@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Martinez  
 
-I’m a **Computer Science student** at Northeastern Illinois University with hands-on experience as a **Technology Coordinator at Chicago Public Schools**. I’m passionate about troubleshooting, building efficient systems, and learning new technologies that improve workflows and enhance user experiences.  
+I’m a **Computer Science Graduate Student** at Northeastern Illinois University with hands-on experience as a **Technology Coordinator at Chicago Public Schools**. I’m passionate about troubleshooting, building efficient systems, and learning new technologies that improve workflows and enhance user experiences.  
 
 ---
 
@@ -39,8 +39,8 @@ I’m a **Computer Science student** at Northeastern Illinois University with ha
 ## 🌐 Let’s Connect  
 - 📧 Email: [mmartinez96@neiu.edu](mailto:mmartinez96@neiu.edu)  
 - 📍 Chicago, IL  
-- 💼 [LinkedIn] (https://www.linkedin.com/in/michaelm96/)
--  📞 Phone: +1 (708) 603 - 4230
+- 💼 LinkedIn (https://www.linkedin.com/in/michaelm96/)
+- 📞 Phone: +1(708)603-4230
 
 
 ---
